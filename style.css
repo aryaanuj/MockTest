@@ -1,0 +1,152 @@
+html
+{
+	margin:auto;
+	padding:auto;
+	background:url(images/12.jpg) no-repeat;
+	
+    
+}
+body
+{
+	margin:0 auto;
+	padding:0 auto;
+
+}
+
+.header
+{
+	width:100%;
+	height:80px;
+background: black;
+color:white;
+
+}
+.navbar
+{
+	width:100%;
+	height:50px;
+	background:rgba(0, 0, 0, 0.5);
+	
+	
+
+}
+.navbar a
+{
+	color:white;
+	text-decoration: none;
+	list-style:none;
+	margin:10px;
+	position:relative;
+	top:15px;
+	color:black;
+}
+.container
+{
+	width:100%;
+
+	
+	
+}
+.sidebar
+{
+	width:500px;
+	height:600px;
+	float:right;
+	margin-left:50px;
+
+	background-color:rgba(0, 0, 0, 0.5);
+}
+.header input
+{
+	width:200px;
+	height:20px;
+	padding-left:5px;
+}
+.table
+{
+	
+	height:500px;
+	width:400px;
+	padding-left:50px;
+
+
+}
+.table td input
+{
+	width:300px;
+	height:30px;
+	padding-left:5px;
+}
+
+#testsidebar
+{
+	width:600px;
+	height:50px;
+	float:left;
+	background-color:rgba(0, 0, 0, 0.5);
+	border-right:2px solid gray;
+
+	color:white;
+
+
+}
+#testsidebar a
+{
+	color:black;
+	text-decoration: none;
+	list-style:none;
+	font-size:20px;
+	margin:10px;
+	padding:10px;
+	color:white;
+	position:relative;
+	top:70px;
+	left:80px;
+}
+#testsidebar a:hover
+{
+	
+	background-color:blue;
+
+
+}
+#loginuser
+{
+	text-transform:capitalize; float:left; position:relative; bottom:10px; right:10px;
+}
+#testsidebar div
+{
+	width:100%;
+	height:30px; 
+	color:white;
+
+	background:black;
+	position:relative;
+	top:50px;
+
+}
+ .adminlogin
+{
+	border:2px solid black;
+	width:308px;
+	height:102px;
+	position:relative;
+	top:100px;
+	left:500px;
+}
+.adminlogin input
+{
+	width:300px;
+	height:30px;
+	padding-left:5px;
+}
+.questiontable
+{
+
+}
+.questiontable table
+{
+	width:400px;
+	height:500px;
+	border:2px solid black;
+}
